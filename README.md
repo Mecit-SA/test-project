@@ -2,7 +2,7 @@
 
 This is a demo using typescript & node.js
 
-To run this project :
+To run this project, clone it and do the following :
 
 1 - run the command 'npm i' in cmd to install all required packages mentioned in package.json
 
